@@ -1,0 +1,46 @@
+Three layers Architecture
+
+Database Layer		Business Layer    		Frontend layer/UI		
+mysql,oracle,...	Java,python,nodejs..		html,css,js,react,angular,bs,jquery...
+	
+
+
+HTML:->website-->group of web pages
+		
+		static -->	gmail login
+		dynamic-->	gmail  home
+
+
+	html static webpages
+
+		welcome.html
+	<!doctype html>
+	<html>
+	<tag>
+	</tag>
+
+html-->tim berners lee-->1.x
+
+WWW
+
+html 5.x
+
+		browser-->google
+
+			engine--->v8-->DOM TREE
+
+browser can understand only JS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
